@@ -1,4 +1,5 @@
 import comidas.*
+import destinos.*
 
 /*
  * Agregar
